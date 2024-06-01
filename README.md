@@ -1,1 +1,1 @@
-# MINI-VIGIL-SHELL
+A shell script to track url redirects.
